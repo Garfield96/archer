@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.2] - 2026-04-24
+
 ### Fixed
 
 - F5 agent: optimize `populateEndpointPorts` with O(n+m) map-based lookups and handle missing ports gracefully
@@ -99,26 +101,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Re-Release with goreleaser
 
-[Unreleased]: https://github.com/sapcc/archer/compare/v2.3.1...HEAD
+[Unreleased]: https://github.com/Garfield96/archer/compare/v2.3.2...HEAD
 
-[2.3.1]: https://github.com/sapcc/archer/compare/v2.3.0...v2.3.1
+[2.3.2]: https://github.com/Garfield96/archer/compare/v2.3.1...v2.3.2
 
-[2.3.0]: https://github.com/sapcc/archer/compare/v2.2.0...v2.3.0
+[2.3.1]: https://github.com/Garfield96/archer/compare/v2.3.0...v2.3.1
 
-[2.2.0]: https://github.com/sapcc/archer/compare/v2.1.0...v2.2.0
+[2.3.0]: https://github.com/Garfield96/archer/compare/v2.2.0...v2.3.0
 
-[2.1.0]: https://github.com/sapcc/archer/compare/v2.0.0...v2.1.0
+[2.2.0]: https://github.com/Garfield96/archer/compare/v2.1.0...v2.2.0
 
-[2.0.0]: https://github.com/sapcc/archer/compare/v1.9.0...v2.0.0
+[2.1.0]: https://github.com/Garfield96/archer/compare/v2.0.0...v2.1.0
 
-[1.9.0]: https://github.com/sapcc/archer/compare/v1.8.0...v1.9.0
+[2.0.0]: https://github.com/Garfield96/archer/compare/v1.9.0...v2.0.0
 
-[1.8.0]: https://github.com/sapcc/archer/compare/v1.7.0...v1.8.0
+[1.9.0]: https://github.com/Garfield96/archer/compare/v1.8.0...v1.9.0
 
-[1.7.0]: https://github.com/sapcc/archer/compare/v1.6.0...v1.7.0
+[1.8.0]: https://github.com/Garfield96/archer/compare/v1.7.0...v1.8.0
 
-[1.6.0]: https://github.com/sapcc/archer/compare/v1.5.0...v1.6.0
+[1.7.0]: https://github.com/Garfield96/archer/compare/v1.6.0...v1.7.0
 
-[1.5.0]: https://github.com/sapcc/archer/compare/v1.4.1...v1.5.0
+[1.6.0]: https://github.com/Garfield96/archer/compare/v1.5.0...v1.6.0
 
-[1.4.1]: https://github.com/sapcc/archer/releases/tag/v1.4.1
+[1.5.0]: https://github.com/Garfield96/archer/compare/v1.4.1...v1.5.0
+
+[1.4.1]: https://github.com/Garfield96/archer/releases/tag/v1.4.1
